@@ -1,4 +1,4 @@
-*Outline for the Presentation*
+**Outline for the Presentation**
 
 1. Sebastian: Introduction and Motivation (<10min)
     - What is Aboi?
