@@ -25,8 +25,8 @@
     - Deploy v3
 
 1. Outlook (6min)
-    - Andreas: Recap: What have we seen?
     - Sebastian: Relationship Avodaq <-> DT
     - Andreas: Keptn is not only CD but also CO
     - Sebastian: Feature flags
+    - Andreas: Key Takeaways
     - Sebastian: Verify v3 in production 
