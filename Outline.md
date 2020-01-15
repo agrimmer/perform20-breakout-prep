@@ -11,7 +11,6 @@
     - Show application in v1 (e.g. with 5 features) in staging and prod representing the current implementation
     - New application in v2 with 6 features 
     - Inform Keptn about new image in v2 (tests will approx. take 5min)
-    - Define quality criterion, which will break the build (i.e. a slow down which is not found by e..g. the acceptance tester)
 
 1. Andreas: Keptn (10min)
     - What is keptn?
